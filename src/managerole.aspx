@@ -7,7 +7,7 @@
     <style type="text/css">
         .container
         {
-            margin-left: 10px;
+            margin-left: 10px; 
             margin-right: 10px;
         }
     </style>
