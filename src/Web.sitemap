@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Home"  description="">
+    <!--<siteMapNode url="Default.aspx" title="Home"  description="Home Page" />    
+    <siteMapNode url="authentication.aspx" title="Autentication"  description="Autentication Page" />
+    --><!--<siteMapNode url="process.aspx" title="Process"  description="Process Page" />--><!--
+    <siteMapNode url="javascript:;" title="Master Data"  description="Master Data Page">
+      <siteMapNode url ="managedictionary.aspx" title="Dictionary"  description="Dictionary Page"></siteMapNode>
+      <siteMapNode url ="managerules.aspx" title="Rule"  description="Rule Page"></siteMapNode>
+      --><!--<siteMapNode url ="managerole.aspx" title="Role"  description="Rule Page"></siteMapNode>--><!--
+    </siteMapNode>
+    --><!--<siteMapNode url="analyticSentimens.aspx" title="Analytics"  description="Analytics Page" />--><!--
+    <siteMapNode url="sampletwitter.aspx" title="Twitter"  description="Twitter Page" />-->
+  </siteMapNode>
+</siteMap>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="H:\publish\socmed" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="WebApplication1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.sitemap" publishTime="09/21/2016 20:12:27" />
+    <file relUrl="bin/Twitterizer2.dll" publishTime="08/24/2016 10:16:09" />
+    <file relUrl="Main.master" publishTime="09/20/2016 11:33:28" />
+    <file relUrl="process.aspx" publishTime="09/20/2016 11:35:28" />
+    <file relUrl="Site.Master" publishTime="09/20/2016 11:22:24" />
+    <file relUrl="js/libs/jquery.js" publishTime="08/24/2016 10:16:09" />
+    <file relUrl="bin/Hammock.ClientProfile.dll" publishTime="08/24/2016 10:16:12" />
+    <file relUrl="bin/TweetSharp.pdb" publishTime="08/24/2016 10:16:13" />
+    <file relUrl="managerole.aspx" publishTime="09/20/2016 11:38:05" />
+    <file relUrl="process1.aspx" publishTime="08/24/2016 10:16:09" />
+    <file relUrl="js/libs/uikit.js" publishTime="08/24/2016 10:16:09" />
+    <file relUrl="bin/ASPSnippets.TwitterAPI.dll" publishTime="08/24/2016 10:16:09" />
+    <file relUrl="managedictionary.aspx" publishTime="09/20/2016 11:36:30" />
+    <file relUrl="WebForm1.aspx" publishTime="08/24/2016 10:16:08" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="08/24/2016 10:16:13" />
+    <file relUrl="js/libs/handlebars.js" publishTime="08/24/2016 10:16:09" />
+    <file relUrl="authentication.aspx" publishTime="09/20/2016 11:34:30" />
+    <file relUrl="packages.config" publishTime="08/24/2016 10:16:09" />
+    <file relUrl="bin/TweetSharp.dll" publishTime="08/24/2016 10:16:13" />
+    <file relUrl="Default.aspx" publishTime="09/20/2016 11:58:40" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="08/24/2016 10:16:13" />
+    <file relUrl="bin/WebApplication1.pdb" publishTime="09/20/2016 11:59:05" />
+    <file relUrl="sampletwitter.aspx" publishTime="09/20/2016 11:49:14" />
+    <file relUrl="style/Site.css" publishTime="06/23/2016 21:04:18" />
+    <file relUrl="bin/WebApplication1.dll" publishTime="09/20/2016 11:59:05" />
+    <file relUrl="bin/HtmlAgilityPack.dll" publishTime="08/24/2016 10:16:10" />
+    <file relUrl="TempImageFiles/temp.txt" publishTime="08/24/2016 10:16:08" />
+    <file relUrl="Web.config" publishTime="08/24/2016 10:16:09" />
+    <file relUrl="bin/Hammock.ClientProfile.pdb" publishTime="08/24/2016 10:16:12" />
+    <file relUrl="bin/HtmlAgilityPack.pdb" publishTime="08/24/2016 10:16:10" />
+    <file relUrl="js/libs/angular.js" publishTime="08/24/2016 10:16:09" />
+    <file relUrl="analyticSentimens.aspx" publishTime="09/08/2016 17:21:19" />
+    <file relUrl="bin/HtmlAgilityPack.xml" publishTime="08/24/2016 10:16:10" />
+    <file relUrl="managerules.aspx" publishTime="09/20/2016 11:37:15" />
+  </publishProfile>
+</publishData>
